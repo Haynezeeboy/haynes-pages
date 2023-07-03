@@ -3,29 +3,56 @@
     <title>Matthew Haynes</title>
     <link href="https://haynezeeboy.github.io/haynes-pages/feed.xml" rel="self" />
     <link href="https://haynezeeboy.github.io/haynes-pages" />
-    <updated>2023-07-03T10:51:58+10:00</updated>
+    <updated>2023-07-03T12:25:47+10:00</updated>
     <author>
         <name>Matthew Haynes</name>
     </author>
     <id>https://haynezeeboy.github.io/haynes-pages</id>
 
     <entry>
-        <title>Welcome</title>
+        <title>Cosmic</title>
         <author>
             <name>Matthew Haynes</name>
         </author>
-        <link href="https://haynezeeboy.github.io/haynes-pages/welcome.html"/>
-        <id>https://haynezeeboy.github.io/haynes-pages/welcome.html</id>
+        <link href="https://haynezeeboy.github.io/haynes-pages/cosmic.html"/>
+        <id>https://haynezeeboy.github.io/haynes-pages/cosmic.html</id>
 
-        <updated>2023-07-03T10:51:58+10:00</updated>
+        <updated>2023-07-03T12:25:47+10:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="" height="[object Object]" width="[object Object]" alt=""  data-is-external-image="true">
-      
-    </figure>
+                <figure class="post__image"><img loading="lazy"  src="https://haynezeeboy.github.io/haynes-pages/media/posts/3/IMG_2522.jpeg" alt="" width="2000" height="2000" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://haynezeeboy.github.io/haynes-pages/media/posts/3/responsive/IMG_2522-xs.jpeg 384w ,https://haynezeeboy.github.io/haynes-pages/media/posts/3/responsive/IMG_2522-sm.jpeg 600w ,https://haynezeeboy.github.io/haynes-pages/media/posts/3/responsive/IMG_2522-md.jpeg 768w ,https://haynezeeboy.github.io/haynes-pages/media/posts/3/responsive/IMG_2522-lg.jpeg 1200w ,https://haynezeeboy.github.io/haynes-pages/media/posts/3/responsive/IMG_2522-xl.jpeg 1600w"></figure>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/IMG_2522.jpeg" data-size="2000x2000"><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/IMG_2522-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/IMG_2520.webp" data-size="2000x2000"><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/IMG_2520-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/IMG_2519.webp" data-size="2000x2000"><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/IMG_2519-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/IMG_2518.webp" data-size="1500x1500"><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/IMG_2518-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/Double_Double_Doubles_BTHC_Tee_Black_01.jpg.webp" data-size="2000x2000"><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/Double_Double_Doubles_BTHC_Tee_Black_01.jpg-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/COSMIC-SUPPORT-CLUB.webp" data-size="2000x2000"><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/COSMIC-SUPPORT-CLUB-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/COSMIC-SUPPORT-CLUB-2.webp" data-size="2000x2000"><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/COSMIC-SUPPORT-CLUB-2-thumbnail.webp" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/291578511_452134830252004_6265600287653177045_n.webp" data-size="640x800"><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/291578511_452134830252004_6265600287653177045_n-thumbnail.webp" alt="" width="640" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/291363330_404000391681560_2072564568869801844_n.webp" data-size="640x800"><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/291363330_404000391681560_2072564568869801844_n-thumbnail.webp" alt="" width="640" height="800"></a></figure>
+<figure class="gallery__item"><a href="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/290922936_1798691680338840_4524203954533658630_n.webp" data-size="640x800"><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/3/gallery/290922936_1798691680338840_4524203954533658630_n-thumbnail.webp" alt="" width="640" height="800"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cosmic Support Club</title>
+        <author>
+            <name>Matthew Haynes</name>
+        </author>
+        <link href="https://haynezeeboy.github.io/haynes-pages/cosmic-support-club.html"/>
+        <id>https://haynezeeboy.github.io/haynes-pages/cosmic-support-club.html</id>
+
+        <updated>2023-07-03T12:06:39+10:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://haynezeeboy.github.io/haynes-pages/media/posts/2/gallery/IMG_2522.jpeg" data-size="2000x2000"><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/2/gallery/IMG_2522-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+</div></div>
+<figure class="post__image"><img loading="lazy"  src="https://haynezeeboy.github.io/haynes-pages/media/posts/2/IMG_2522.jpeg" alt="" width="2000" height="2000" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://haynezeeboy.github.io/haynes-pages/media/posts/2/responsive/IMG_2522-xs.jpeg 384w ,https://haynezeeboy.github.io/haynes-pages/media/posts/2/responsive/IMG_2522-sm.jpeg 600w ,https://haynezeeboy.github.io/haynes-pages/media/posts/2/responsive/IMG_2522-md.jpeg 768w ,https://haynezeeboy.github.io/haynes-pages/media/posts/2/responsive/IMG_2522-lg.jpeg 1200w ,https://haynezeeboy.github.io/haynes-pages/media/posts/2/responsive/IMG_2522-xl.jpeg 1600w"></figure>
             ]]>
         </content>
     </entry>

@@ -3,12 +3,28 @@
     <title>Matthew Haynes</title>
     <link href="https://haynezeeboy.github.io/haynes-pages/feed.xml" rel="self" />
     <link href="https://haynezeeboy.github.io/haynes-pages" />
-    <updated>2023-07-03T12:25:47+10:00</updated>
+    <updated>2023-07-03T13:02:25+10:00</updated>
     <author>
         <name>Matthew Haynes</name>
     </author>
     <id>https://haynezeeboy.github.io/haynes-pages</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Matthew Haynes</name>
+        </author>
+        <link href="https://haynezeeboy.github.io/haynes-pages/test.html"/>
+        <id>https://haynezeeboy.github.io/haynes-pages/test.html</id>
+
+        <updated>2023-07-03T13:02:25+10:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://haynezeeboy.github.io/haynes-pages/media/posts/4/DOUBLE-DOUBLE-1.jpg" alt="" width="2160" height="2704" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://haynezeeboy.github.io/haynes-pages/media/posts/4/responsive/DOUBLE-DOUBLE-1-xs.jpg 384w ,https://haynezeeboy.github.io/haynes-pages/media/posts/4/responsive/DOUBLE-DOUBLE-1-sm.jpg 600w ,https://haynezeeboy.github.io/haynes-pages/media/posts/4/responsive/DOUBLE-DOUBLE-1-md.jpg 768w ,https://haynezeeboy.github.io/haynes-pages/media/posts/4/responsive/DOUBLE-DOUBLE-1-lg.jpg 1200w ,https://haynezeeboy.github.io/haynes-pages/media/posts/4/responsive/DOUBLE-DOUBLE-1-xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cosmic</title>
         <author>

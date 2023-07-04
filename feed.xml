@@ -3,12 +3,44 @@
     <title>Matthew Haynes</title>
     <link href="https://haynezeeboy.github.io/haynes-pages/feed.xml" rel="self" />
     <link href="https://haynezeeboy.github.io/haynes-pages" />
-    <updated>2023-07-04T16:07:06+10:00</updated>
+    <updated>2023-07-04T16:48:42+10:00</updated>
     <author>
         <name>Matthew Haynes</name>
     </author>
     <id>https://haynezeeboy.github.io/haynes-pages</id>
 
+    <entry>
+        <title>Southbound presents Surface Level - Poster</title>
+        <author>
+            <name>Matthew Haynes</name>
+        </author>
+        <link href="https://haynezeeboy.github.io/haynes-pages/southbound-presents-surface-level-poster.html"/>
+        <id>https://haynezeeboy.github.io/haynes-pages/southbound-presents-surface-level-poster.html</id>
+        <media:content url="https://haynezeeboy.github.io/haynes-pages/media/posts/13/Southbound-Feature.png" medium="image" />
+            <category term="Poster"/>
+
+        <updated>2023-07-04T16:40:02+10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://haynezeeboy.github.io/haynes-pages/media/posts/13/Southbound-Feature.png" alt="" />
+                    Banner Design Concept - Sludgy warehouse inspired techno tinged event. Graphics Matthew Haynes Client Southbound Poster
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://haynezeeboy.github.io/haynes-pages/media/posts/13/Southbound-Feature.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image" ><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/13/Surface-Level-Banner-2.jpg" alt="Banner" width="1702" height="630" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://haynezeeboy.github.io/haynes-pages/media/posts/13/responsive/Surface-Level-Banner-2-xs.jpg 384w ,https://haynezeeboy.github.io/haynes-pages/media/posts/13/responsive/Surface-Level-Banner-2-sm.jpg 600w ,https://haynezeeboy.github.io/haynes-pages/media/posts/13/responsive/Surface-Level-Banner-2-md.jpg 768w ,https://haynezeeboy.github.io/haynes-pages/media/posts/13/responsive/Surface-Level-Banner-2-lg.jpg 1200w ,https://haynezeeboy.github.io/haynes-pages/media/posts/13/responsive/Surface-Level-Banner-2-xl.jpg 1600w">
+<figcaption >Banner</figcaption>
+</figure>
+<p><strong>Design Concept - </strong>Sludgy warehouse inspired techno tinged event. </p>
+<p><strong>Graphics</strong> Matthew Haynes</p>
+<p><strong>Client</strong>  <a href="https://www.instagram.com/southboundsessions/" target="_blank" rel="noopener noreferrer">Southbound</a></p>
+<figure class="post__image" ><img loading="lazy" src="https://haynezeeboy.github.io/haynes-pages/media/posts/13/Surface-Level-Poster.jpg" alt="" width="1477" height="2088" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://haynezeeboy.github.io/haynes-pages/media/posts/13/responsive/Surface-Level-Poster-xs.jpg 384w ,https://haynezeeboy.github.io/haynes-pages/media/posts/13/responsive/Surface-Level-Poster-sm.jpg 600w ,https://haynezeeboy.github.io/haynes-pages/media/posts/13/responsive/Surface-Level-Poster-md.jpg 768w ,https://haynezeeboy.github.io/haynes-pages/media/posts/13/responsive/Surface-Level-Poster-lg.jpg 1200w ,https://haynezeeboy.github.io/haynes-pages/media/posts/13/responsive/Surface-Level-Poster-xl.jpg 1600w">
+<figcaption >Poster</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Everick Foundation Conference Flyers</title>
         <author>
@@ -45,8 +77,10 @@
         <id>https://haynezeeboy.github.io/haynes-pages/barada-kabalbara-yetimarala-people-strategic-plan.html</id>
         <media:content url="https://haynezeeboy.github.io/haynes-pages/media/posts/11/BKY-Strategic-Goals-Document-Booklet-22-Feature.png" medium="image" />
             <category term="Print"/>
+            <category term="Indigenous"/>
+            <category term="Iconography"/>
 
-        <updated>2023-07-04T16:07:06+10:00</updated>
+        <updated>2023-07-04T16:48:42+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://haynezeeboy.github.io/haynes-pages/media/posts/11/BKY-Strategic-Goals-Document-Booklet-22-Feature.png" alt="" />
@@ -73,8 +107,9 @@
         <link href="https://haynezeeboy.github.io/haynes-pages/western-kangoulu-welcome-to-country-signage.html"/>
         <id>https://haynezeeboy.github.io/haynes-pages/western-kangoulu-welcome-to-country-signage.html</id>
         <media:content url="https://haynezeeboy.github.io/haynes-pages/media/posts/10/Western-K-logo.png" medium="image" />
+            <category term="Indigenous"/>
 
-        <updated>2023-07-04T15:24:00+10:00</updated>
+        <updated>2023-07-04T16:40:20+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://haynezeeboy.github.io/haynes-pages/media/posts/10/Western-K-logo.png" alt="" />
@@ -99,8 +134,9 @@
         <link href="https://haynezeeboy.github.io/haynes-pages/everick-foundation-annual-report.html"/>
         <id>https://haynezeeboy.github.io/haynes-pages/everick-foundation-annual-report.html</id>
         <media:content url="https://haynezeeboy.github.io/haynes-pages/media/posts/9/Everick-Foundation-Feature.png" medium="image" />
+            <category term="Print"/>
 
-        <updated>2023-07-04T15:12:55+10:00</updated>
+        <updated>2023-07-04T16:42:50+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://haynezeeboy.github.io/haynes-pages/media/posts/9/Everick-Foundation-Feature.png" alt="" />
@@ -125,8 +161,9 @@
         <link href="https://haynezeeboy.github.io/haynes-pages/bthc-promotional-posters.html"/>
         <id>https://haynezeeboy.github.io/haynes-pages/bthc-promotional-posters.html</id>
         <media:content url="https://haynezeeboy.github.io/haynes-pages/media/posts/8/BTHC-PSS-2023-Feature.png" medium="image" />
+            <category term="Poster"/>
 
-        <updated>2023-07-04T13:15:28+10:00</updated>
+        <updated>2023-07-04T16:43:15+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://haynezeeboy.github.io/haynes-pages/media/posts/8/BTHC-PSS-2023-Feature.png" alt="" />
@@ -166,15 +203,17 @@
         </content>
     </entry>
     <entry>
-        <title>Information Age - Poster / T-Shirt</title>
+        <title>Welcome to the Information Age</title>
         <author>
             <name>Matthew Haynes</name>
         </author>
         <link href="https://haynezeeboy.github.io/haynes-pages/information-age-poster.html"/>
         <id>https://haynezeeboy.github.io/haynes-pages/information-age-poster.html</id>
         <media:content url="https://haynezeeboy.github.io/haynes-pages/media/posts/7/615f78746ec9a3.59846383.png.webp" medium="image" />
+            <category term="Poster"/>
+            <category term="Apparel"/>
 
-        <updated>2023-07-03T16:00:25+10:00</updated>
+        <updated>2023-07-04T16:47:58+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://haynezeeboy.github.io/haynes-pages/media/posts/7/615f78746ec9a3.59846383.png.webp" alt="" />
@@ -209,8 +248,9 @@
         <link href="https://haynezeeboy.github.io/haynes-pages/everick-capacity-statement.html"/>
         <id>https://haynezeeboy.github.io/haynes-pages/everick-capacity-statement.html</id>
         <media:content url="https://haynezeeboy.github.io/haynes-pages/media/posts/6/Renewables-Cap-Stat-Feature.png" medium="image" />
+            <category term="Print"/>
 
-        <updated>2023-07-04T13:25:49+10:00</updated>
+        <updated>2023-07-04T16:44:23+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://haynezeeboy.github.io/haynes-pages/media/posts/6/Renewables-Cap-Stat-Feature.png" alt="" />
@@ -235,8 +275,9 @@
         <link href="https://haynezeeboy.github.io/haynes-pages/cosmic.html"/>
         <id>https://haynezeeboy.github.io/haynes-pages/cosmic.html</id>
         <media:content url="https://haynezeeboy.github.io/haynes-pages/media/posts/3/IMG_2522-2.jpeg" medium="image" />
+            <category term="Apparel"/>
 
-        <updated>2023-07-03T15:21:48+10:00</updated>
+        <updated>2023-07-04T16:44:58+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://haynezeeboy.github.io/haynes-pages/media/posts/3/IMG_2522-2.jpeg" alt="" />
@@ -271,8 +312,9 @@
         <link href="https://haynezeeboy.github.io/haynes-pages/eso-001-record.html"/>
         <id>https://haynezeeboy.github.io/haynes-pages/eso-001-record.html</id>
         <media:content url="https://haynezeeboy.github.io/haynes-pages/media/posts/5/ESO-003_preview_a-feature.jpg" medium="image" />
+            <category term="Product"/>
 
-        <updated>2023-07-04T13:19:06+10:00</updated>
+        <updated>2023-07-04T16:44:46+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://haynezeeboy.github.io/haynes-pages/media/posts/5/ESO-003_preview_a-feature.jpg" alt="" />

@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://haynezeeboy.github.io/haynes-pages/dj-central-loots-for-a-music-video.html",
+            "url": "https://haynezeeboy.github.io/haynes-pages/dj-central-loots-for-a-music-video.html",
+            "title": "DJ Central - Loots For A (Esomix)",
+            "summary": "Design Concept To illustrate the mood of the ambient track Loots for A (Esomix) by DJ Central Director / Editor&hellip;",
+            "content_html": "<p><strong>Design Concept </strong>To illustrate the mood of the ambient track Loots for A (Esomix) by DJ Central</p>\n<p><strong>Director / Editor</strong> Matthew Haynes</p>\n<p><strong>Cinematographer </strong>Maximilian Mckay</p>\n<p><strong>Negative Format</strong> 8mm</p>\n<p><strong>Producer</strong> Natal Zaks</p>\n<p><strong>Client</strong>  <a href=\"https://soundcloud.com/esotericexports\" target=\"_blank\" rel=\"noopener noreferrer\">Esoteric Exports</a></p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/6nXAalqkpbI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>",
+            "image": "https://haynezeeboy.github.io/haynes-pages/media/posts/16/Eso-video-feature.png",
+            "author": {
+                "name": "Matthew Haynes"
+            },
+            "tags": [
+                   "Video"
+            ],
+            "date_published": "2023-07-04T18:23:14+10:00",
+            "date_modified": "2023-07-04T18:24:49+10:00"
+        },
+        {
             "id": "https://haynezeeboy.github.io/haynes-pages/mutually-feeling-intertwined.html",
             "url": "https://haynezeeboy.github.io/haynes-pages/mutually-feeling-intertwined.html",
             "title": "Mutually Feeling - Intertwined",
@@ -160,22 +176,6 @@
             ],
             "date_published": "2023-07-03T15:54:59+10:00",
             "date_modified": "2023-07-04T16:47:58+10:00"
-        },
-        {
-            "id": "https://haynezeeboy.github.io/haynes-pages/everick-capacity-statement.html",
-            "url": "https://haynezeeboy.github.io/haynes-pages/everick-capacity-statement.html",
-            "title": "Everick Capacity Statement",
-            "summary": "Since 2002 Everick Heritage has committed to providing expert heritage management advice through valuable community engagement. Everick is a family&hellip;",
-            "content_html": "<p class=\"p1\">Since 2002 Everick Heritage has committed to providing expert heritage management advice through valuable community engagement. Everick is a family owned and run business, started by Dr Richard Robins and now led by his son Tim Robins (Managing Director). The team continue to grow and consists of over 70 staff.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://haynezeeboy.github.io/haynes-pages/media/posts/6/Screenshot-2023-07-03-at-2.56.39-pm.png\" alt=\"\" width=\"1402\" height=\"2016\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://haynezeeboy.github.io/haynes-pages/media/posts/6/responsive/Screenshot-2023-07-03-at-2.56.39-pm-xs.png 384w ,https://haynezeeboy.github.io/haynes-pages/media/posts/6/responsive/Screenshot-2023-07-03-at-2.56.39-pm-sm.png 600w ,https://haynezeeboy.github.io/haynes-pages/media/posts/6/responsive/Screenshot-2023-07-03-at-2.56.39-pm-md.png 768w ,https://haynezeeboy.github.io/haynes-pages/media/posts/6/responsive/Screenshot-2023-07-03-at-2.56.39-pm-lg.png 1200w ,https://haynezeeboy.github.io/haynes-pages/media/posts/6/responsive/Screenshot-2023-07-03-at-2.56.39-pm-xl.png 1600w\"></figure>\n<p> </p>\n<p>Open the whole document <a href=\"https://drive.google.com/file/d/12h6thv2GH5q9DJkup9oXnbMGsdt0W_b2/view?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>. </p>",
-            "image": "https://haynezeeboy.github.io/haynes-pages/media/posts/6/Renewables-Cap-Stat-Feature.png",
-            "author": {
-                "name": "Matthew Haynes"
-            },
-            "tags": [
-                   "Print"
-            ],
-            "date_published": "2023-07-03T15:04:36+10:00",
-            "date_modified": "2023-07-04T17:20:40+10:00"
         }
     ]
 }

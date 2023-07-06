@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://matthewhayn.es/everick-geospatial-logo.html",
+            "url": "https://matthewhayn.es/everick-geospatial-logo.html",
+            "title": "Everick Geospatial Logo",
+            "summary": "Design Concept - Develop a stripped back legal logo for Everick's legal department that doesn't contain the brand's Everick arrow. Design Matthew&hellip;",
+            "content_html": "<p><strong>Design Concept - </strong>Develop a stripped back legal logo for Everick's legal department that doesn't contain the brand's Everick arrow. </p>\n<p><strong>Design</strong> Matthew Haynes</p>\n<p><strong>Client</strong> <a href=\"https://www.geospatial.everick.com.au/\" target=\"_blank\" rel=\"noopener noreferrer\">Everick Geospatial</a></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matthewhayn.es/media/posts/20/Geospatial-Logo-2.png\" alt=\"\" width=\"1240\" height=\"1240\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/20/responsive/Geospatial-Logo-2-xs.png 384w ,https://matthewhayn.es/media/posts/20/responsive/Geospatial-Logo-2-sm.png 600w ,https://matthewhayn.es/media/posts/20/responsive/Geospatial-Logo-2-md.png 768w ,https://matthewhayn.es/media/posts/20/responsive/Geospatial-Logo-2-lg.png 1200w ,https://matthewhayn.es/media/posts/20/responsive/Geospatial-Logo-2-xl.png 1600w\"></figure>",
+            "image": "https://matthewhayn.es/media/posts/20/Geospatial-Logo.png",
+            "author": {
+                "name": "Matthew Haynes"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-07-06T16:14:06+10:00",
+            "date_modified": "2023-07-06T16:16:12+10:00"
+        },
+        {
             "id": "https://matthewhayn.es/lithic-legal-logo.html",
             "url": "https://matthewhayn.es/lithic-legal-logo.html",
             "title": "Lithic Legal Logo",
@@ -157,22 +172,6 @@
             ],
             "date_published": "2023-07-04T17:06:37+10:00",
             "date_modified": "2023-07-04T17:59:42+10:00"
-        },
-        {
-            "id": "https://matthewhayn.es/southbound-presents-surface-level-poster.html",
-            "url": "https://matthewhayn.es/southbound-presents-surface-level-poster.html",
-            "title": "Southbound presents Surface Level",
-            "summary": "Banner Design Concept - Sludgy warehouse inspired techno tinged event. Graphics Matthew Haynes Client Southbound Poster",
-            "content_html": "<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/13/Surface-Level-Banner-2.jpg\" alt=\"Banner\" width=\"1702\" height=\"630\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/13/responsive/Surface-Level-Banner-2-xs.jpg 384w ,https://matthewhayn.es/media/posts/13/responsive/Surface-Level-Banner-2-sm.jpg 600w ,https://matthewhayn.es/media/posts/13/responsive/Surface-Level-Banner-2-md.jpg 768w ,https://matthewhayn.es/media/posts/13/responsive/Surface-Level-Banner-2-lg.jpg 1200w ,https://matthewhayn.es/media/posts/13/responsive/Surface-Level-Banner-2-xl.jpg 1600w\">\n<figcaption >Banner</figcaption>\n</figure>\n<p><strong>Design Concept - </strong>Sludgy warehouse inspired techno tinged event. </p>\n<p><strong>Graphics</strong> Matthew Haynes</p>\n<p><strong>Client</strong>  <a href=\"https://www.instagram.com/southboundsessions/\" target=\"_blank\" rel=\"noopener noreferrer\">Southbound</a></p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/13/Surface-Level-Poster.jpg\" alt=\"\" width=\"1477\" height=\"2088\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/13/responsive/Surface-Level-Poster-xs.jpg 384w ,https://matthewhayn.es/media/posts/13/responsive/Surface-Level-Poster-sm.jpg 600w ,https://matthewhayn.es/media/posts/13/responsive/Surface-Level-Poster-md.jpg 768w ,https://matthewhayn.es/media/posts/13/responsive/Surface-Level-Poster-lg.jpg 1200w ,https://matthewhayn.es/media/posts/13/responsive/Surface-Level-Poster-xl.jpg 1600w\">\n<figcaption >Poster</figcaption>\n</figure>",
-            "image": "https://matthewhayn.es/media/posts/13/Southbound-Feature.png",
-            "author": {
-                "name": "Matthew Haynes"
-            },
-            "tags": [
-                   "Poster"
-            ],
-            "date_published": "2023-07-04T16:39:12+10:00",
-            "date_modified": "2023-07-04T17:20:31+10:00"
         }
     ]
 }

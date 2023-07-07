@@ -3,7 +3,7 @@
     <title>matthewhayn.es</title>
     <link href="https://matthewhayn.es/feed.xml" rel="self" />
     <link href="https://matthewhayn.es" />
-    <updated>2023-07-07T17:19:22+10:00</updated>
+    <updated>2023-07-07T17:23:42+10:00</updated>
     <author>
         <name>Matthew Haynes</name>
     </author>
@@ -74,8 +74,11 @@
         <link href="https://matthewhayn.es/everick-geospatial-logo.html"/>
         <id>https://matthewhayn.es/everick-geospatial-logo.html</id>
         <media:content url="https://matthewhayn.es/media/posts/20/Geospatial-Logo.png" medium="image" />
+            <category term="Web"/>
+            <category term="Print"/>
+            <category term="Logo"/>
 
-        <updated>2023-07-07T11:26:37+10:00</updated>
+        <updated>2023-07-07T17:23:42+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://matthewhayn.es/media/posts/20/Geospatial-Logo.png" alt="" />
@@ -106,8 +109,10 @@
         <link href="https://matthewhayn.es/lithic-legal-logo.html"/>
         <id>https://matthewhayn.es/lithic-legal-logo.html</id>
         <media:content url="https://matthewhayn.es/media/posts/19/Lithic-Legal-Feature-2.png" medium="image" />
+            <category term="Print"/>
+            <category term="Logo"/>
 
-        <updated>2023-07-07T11:23:28+10:00</updated>
+        <updated>2023-07-07T17:23:14+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://matthewhayn.es/media/posts/19/Lithic-Legal-Feature-2.png" alt="" />

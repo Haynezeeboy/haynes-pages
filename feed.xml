@@ -3,12 +3,63 @@
     <title>matthewhayn.es</title>
     <link href="https://matthewhayn.es/feed.xml" rel="self" />
     <link href="https://matthewhayn.es" />
-    <updated>2023-07-06T16:16:12+10:00</updated>
+    <updated>2023-07-07T16:00:50+10:00</updated>
     <author>
         <name>Matthew Haynes</name>
     </author>
     <id>https://matthewhayn.es</id>
 
+    <entry>
+        <title>Everick Website</title>
+        <author>
+            <name>Matthew Haynes</name>
+        </author>
+        <link href="https://matthewhayn.es/everick-website.html"/>
+        <id>https://matthewhayn.es/everick-website.html</id>
+
+        <updated>2023-07-07T16:00:50+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Design Concept - To create a webpage for Everick Geospatial that displays its services with imagery more than text. Design&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text. </p>
+<p><span style="color: #02192b;"><strong>Design</strong></span> Matthew Haynes</p>
+<p><strong>Client</strong>  <a href="https://www.geospatial.everick.com.au" target="_blank" rel="noopener noreferrer">Everick</a></p>
+<figure class="post__image"><img loading="lazy"  src="https://matthewhayn.es/media/posts/22/Heritage-Website.png" alt="" width="1240" height="1240" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-xs.png 384w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-sm.png 600w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-md.png 768w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-lg.png 1200w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Everick Geospatial Website</title>
+        <author>
+            <name>Matthew Haynes</name>
+        </author>
+        <link href="https://matthewhayn.es/everick-geospatial-website.html"/>
+        <id>https://matthewhayn.es/everick-geospatial-website.html</id>
+            <category term="Web"/>
+
+        <updated>2023-07-07T15:39:27+10:00</updated>
+            <summary>
+                <![CDATA[
+                    Design Concept - To create a webpage for Everick Geospatial that displays its services with imagery more than text. Design&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text. </p>
+<p><span style="color: #02192b;"><strong>Design</strong></span> Matthew Haynes</p>
+<p><strong>Client</strong>  <a href="https://www.geospatial.everick.com.au" target="_blank" rel="noopener noreferrer">Everick Geospatial</a></p>
+<figure class="post__image" ><img loading="lazy" src="https://matthewhayn.es/media/posts/21/Geospatial-website.png" alt="" width="1240" height="1240" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-xs.png 384w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-sm.png 600w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-md.png 768w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-lg.png 1200w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-xl.png 1600w">
+<figcaption >The Geospatial website in desktop &amp; mobile</figcaption>
+</figure>
+<p>See the Geospatial website <a href="https://www.geospatial.everick.com.au" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Everick Geospatial Logo</title>
         <author>
@@ -18,7 +69,7 @@
         <id>https://matthewhayn.es/everick-geospatial-logo.html</id>
         <media:content url="https://matthewhayn.es/media/posts/20/Geospatial-Logo.png" medium="image" />
 
-        <updated>2023-07-06T16:16:12+10:00</updated>
+        <updated>2023-07-07T11:26:37+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://matthewhayn.es/media/posts/20/Geospatial-Logo.png" alt="" />
@@ -32,6 +83,12 @@
 <p><strong>Design</strong> Matthew Haynes</p>
 <p><strong>Client</strong> <a href="https://www.geospatial.everick.com.au/" target="_blank" rel="noopener noreferrer">Everick Geospatial</a></p>
 <figure class="post__image"><img loading="lazy"  src="https://matthewhayn.es/media/posts/20/Geospatial-Logo-2.png" alt="" width="1240" height="1240" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://matthewhayn.es/media/posts/20/responsive/Geospatial-Logo-2-xs.png 384w ,https://matthewhayn.es/media/posts/20/responsive/Geospatial-Logo-2-sm.png 600w ,https://matthewhayn.es/media/posts/20/responsive/Geospatial-Logo-2-md.png 768w ,https://matthewhayn.es/media/posts/20/responsive/Geospatial-Logo-2-lg.png 1200w ,https://matthewhayn.es/media/posts/20/responsive/Geospatial-Logo-2-xl.png 1600w"></figure>
+<figure class="post__image" ><img loading="lazy" src="https://matthewhayn.es/media/posts/20/Geospatial-web-desktop.png" alt="" width="1240" height="1240" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://matthewhayn.es/media/posts/20/responsive/Geospatial-web-desktop-xs.png 384w ,https://matthewhayn.es/media/posts/20/responsive/Geospatial-web-desktop-sm.png 600w ,https://matthewhayn.es/media/posts/20/responsive/Geospatial-web-desktop-md.png 768w ,https://matthewhayn.es/media/posts/20/responsive/Geospatial-web-desktop-lg.png 1200w ,https://matthewhayn.es/media/posts/20/responsive/Geospatial-web-desktop-xl.png 1600w">
+<figcaption >Everick Geopatial logo on the Geopsatial website</figcaption>
+</figure>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/kVBlRp3FW1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+<p class="align-center"> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -44,7 +101,7 @@
         <id>https://matthewhayn.es/lithic-legal-logo.html</id>
         <media:content url="https://matthewhayn.es/media/posts/19/Lithic-Legal-Feature-2.png" medium="image" />
 
-        <updated>2023-07-06T16:07:45+10:00</updated>
+        <updated>2023-07-07T11:23:28+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://matthewhayn.es/media/posts/19/Lithic-Legal-Feature-2.png" alt="" />
@@ -58,8 +115,12 @@
 <p><strong>Design</strong> Matthew Haynes</p>
 <p><strong>Client</strong> <a href="https://www.heritage.everick.com.au" target="_blank" rel="noopener noreferrer">Everick Heritage</a></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
-<figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/19/gallery/Lithic-Legal-compare.png" data-size="3504x2478"><img loading="lazy" src="https://matthewhayn.es/media/posts/19/gallery/Lithic-Legal-compare-thumbnail.png" alt="" width="768" height="543"></a></figure>
-<figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/19/gallery/Lithic-Legal-compare-colour-2.png" data-size="3504x2478"><img loading="lazy" src="https://matthewhayn.es/media/posts/19/gallery/Lithic-Legal-compare-colour-2-thumbnail.png" alt="" width="768" height="543"></a></figure>
+<figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/19/gallery/Branding-Guidelines-for-Staff-2023.jpg" data-size="3508x2480"><img loading="lazy" src="https://matthewhayn.es/media/posts/19/gallery/Branding-Guidelines-for-Staff-2023-thumbnail.jpg" alt="" width="768" height="543"></a>
+<figcaption>Everick Geospatial / Lithic Legal / Everick Heritage logos</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/19/gallery/Branding-Guidelines-for-Staff-2023-v2.jpg" data-size="3508x2480"><img loading="lazy" src="https://matthewhayn.es/media/posts/19/gallery/Branding-Guidelines-for-Staff-2023-v2-thumbnail.jpg" alt="" width="768" height="543"></a>
+<figcaption>Everick Geospatial / Lithic Legal / Everick Heritage colour palette codes</figcaption>
+</figure>
 </div></div>
 <p> </p>
             ]]>
@@ -245,90 +306,6 @@
 <p><strong>Client</strong>  <a href="https://soundcloud.com/esotericexports" target="_blank" rel="noopener noreferrer">Esoteric Exports</a></p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/6nXAalqkpbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Mutually Feeling - Intertwined</title>
-        <author>
-            <name>Matthew Haynes</name>
-        </author>
-        <link href="https://matthewhayn.es/mutually-feeling-intertwined.html"/>
-        <id>https://matthewhayn.es/mutually-feeling-intertwined.html</id>
-        <media:content url="https://matthewhayn.es/media/posts/15/ESO-002-A.jpg" medium="image" />
-            <category term="Video"/>
-            <category term="Product"/>
-            <category term="Print"/>
-
-        <updated>2023-07-06T15:33:44+10:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://matthewhayn.es/media/posts/15/ESO-002-A.jpg" alt="" />
-                    Design Concept To accentuate the sheer creative veracity of Mutually Feeling duo's dark toned beauty for their debut album. Centre&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://matthewhayn.es/media/posts/15/ESO-002-A.jpg" class="type:primaryImage" alt="" /></p>
-                <p><strong>Design Concept </strong>To accentuate the sheer creative veracity of Mutually Feeling duo's dark toned beauty for their debut album. Centre label artwork with a limited run of printed inserts. A music video was also created to market the release and their aesthetic. This will be created for the <a href="https://www.discogs.com/release/13406717-Mutually-Feeling-Intertwined-">Mutually Feeling - Intertwined vinyl release</a>. </p>
-<p><strong>Graphics</strong> Ariana Molly</p>
-<p><strong>Artist</strong> Ariana Molly / Connor McComb</p>
-<p><strong>Creative Director</strong> Matthew Haynes</p>
-<p><strong>Client</strong>  <a href="https://soundcloud.com/esotericexports" target="_blank" rel="noopener noreferrer">Esoteric Exports</a></p>
-<p><strong>Mastering </strong>Matt Colton</p>
-<p><strong>Pressing </strong>Curved</p>
-<p><strong>Press Release</strong> </p>
-<p>Sink into ESO002, the debut EP from Canadian life collaborators Mutually Feeling. Produced across multiple continents, ESO002 is a truly international affair. Mutually Feeling have provided us with 5 tracks of gorgeous, sensual electro and ambient music. If you’re longing for someone or something, this is the record to yearn to. </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/15/gallery/ESO-002-A.jpg" data-size="1240x1240"><img loading="lazy" src="https://matthewhayn.es/media/posts/15/gallery/ESO-002-A-thumbnail.jpg" alt="" width="768" height="768"></a>
-<figcaption>Front</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/15/gallery/ESO-002-B.jpg" data-size="1240x1240"><img loading="lazy" src="https://matthewhayn.es/media/posts/15/gallery/ESO-002-B-thumbnail.jpg" alt="" width="768" height="768"></a>
-<figcaption>Back</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/15/gallery/FINAL-MF-POSTER-front.jpg" data-size="1538x1538"><img loading="lazy" src="https://matthewhayn.es/media/posts/15/gallery/FINAL-MF-POSTER-front-thumbnail.jpg" alt="" width="768" height="768"></a>
-<figcaption>Insert Front</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/15/gallery/FINAL-MF-POSTER-back.jpg" data-size="1538x1538"><img loading="lazy" src="https://matthewhayn.es/media/posts/15/gallery/FINAL-MF-POSTER-back-thumbnail.jpg" alt="" width="768" height="768"></a>
-<figcaption>Insert Back</figcaption>
-</figure>
-</div></div>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ASQmmKRApdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>ESO-001 T-Shirt</title>
-        <author>
-            <name>Matthew Haynes</name>
-        </author>
-        <link href="https://matthewhayn.es/eso-001-t-shirt.html"/>
-        <id>https://matthewhayn.es/eso-001-t-shirt.html</id>
-        <media:content url="https://matthewhayn.es/media/posts/14/IMG_1396.JPG" medium="image" />
-            <category term="Product"/>
-            <category term="Apparel"/>
-
-        <updated>2023-07-04T17:59:42+10:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://matthewhayn.es/media/posts/14/IMG_1396.JPG" alt="" />
-                    Design Concept - Incorporate the simple rough aesthics of the first Esoteric Exports vinyl release to a shirt that can&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://matthewhayn.es/media/posts/14/IMG_1396.JPG" class="type:primaryImage" alt="" /></p>
-                <p><strong>Design Concept - </strong>Incorporate the simple rough aesthics of the first Esoteric Exports vinyl release to a shirt that can be sold with the release of the product. </p>
-<p><strong>Graphic</strong> Natal Zaks</p>
-<p><strong>Creative Director</strong> Matthew Haynes</p>
-<p><strong>Client</strong>  <a href="https://soundcloud.com/esotericexports" target="_blank" rel="noopener noreferrer">Esoteric Exports</a></p>
-<p><strong>Photos</strong> Maud Freeman</p>
-<p><span style="color: #02192b;"><strong>Model </strong></span>Thandi Lane</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/14/gallery/IMG_1392.JPG" data-size="1334x1143"><img loading="lazy" src="https://matthewhayn.es/media/posts/14/gallery/IMG_1392-thumbnail.JPG" alt="" width="768" height="658"></a></figure>
-<figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/14/gallery/IMG_1221.JPG" data-size="1294x1307"><img loading="lazy" src="https://matthewhayn.es/media/posts/14/gallery/IMG_1221-thumbnail.JPG" alt="" width="768" height="776"></a></figure>
-<figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/14/gallery/IMG_1399.JPG" data-size="1334x1144"><img loading="lazy" src="https://matthewhayn.es/media/posts/14/gallery/IMG_1399-thumbnail.JPG" alt="" width="768" height="659"></a></figure>
-</div></div>
             ]]>
         </content>
     </entry>

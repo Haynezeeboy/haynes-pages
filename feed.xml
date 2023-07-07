@@ -3,7 +3,7 @@
     <title>matthewhayn.es</title>
     <link href="https://matthewhayn.es/feed.xml" rel="self" />
     <link href="https://matthewhayn.es" />
-    <updated>2023-07-07T16:00:50+10:00</updated>
+    <updated>2023-07-07T17:19:22+10:00</updated>
     <author>
         <name>Matthew Haynes</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://matthewhayn.es/everick-website.html"/>
         <id>https://matthewhayn.es/everick-website.html</id>
+        <media:content url="https://matthewhayn.es/media/posts/22/Everick-Website-Feature.png" medium="image" />
 
-        <updated>2023-07-07T16:00:50+10:00</updated>
+        <updated>2023-07-07T17:19:22+10:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://matthewhayn.es/media/posts/22/Everick-Website-Feature.png" alt="" />
                     Design Concept - To create a webpage for Everick Geospatial that displays its services with imagery more than text. Design&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://matthewhayn.es/media/posts/22/Everick-Website-Feature.png" class="type:primaryImage" alt="" /></p>
                 <p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text. </p>
 <p><span style="color: #02192b;"><strong>Design</strong></span> Matthew Haynes</p>
 <p><strong>Client</strong>  <a href="https://www.geospatial.everick.com.au" target="_blank" rel="noopener noreferrer">Everick</a></p>
@@ -39,17 +42,20 @@
         </author>
         <link href="https://matthewhayn.es/everick-geospatial-website.html"/>
         <id>https://matthewhayn.es/everick-geospatial-website.html</id>
+        <media:content url="https://matthewhayn.es/media/posts/21/Geospatial-web-desktop.png" medium="image" />
             <category term="Web"/>
 
-        <updated>2023-07-07T15:39:27+10:00</updated>
+        <updated>2023-07-07T17:16:50+10:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://matthewhayn.es/media/posts/21/Geospatial-web-desktop.png" alt="" />
                     Design Concept - To create a webpage for Everick Geospatial that displays its services with imagery more than text. Design&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text. </p>
+                    <p><img src="https://matthewhayn.es/media/posts/21/Geospatial-web-desktop.png" class="type:primaryImage" alt="" /></p>
+                <p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text.</p>
 <p><span style="color: #02192b;"><strong>Design</strong></span> Matthew Haynes</p>
 <p><strong>Client</strong>  <a href="https://www.geospatial.everick.com.au" target="_blank" rel="noopener noreferrer">Everick Geospatial</a></p>
 <figure class="post__image" ><img loading="lazy" src="https://matthewhayn.es/media/posts/21/Geospatial-website.png" alt="" width="1240" height="1240" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-xs.png 384w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-sm.png 600w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-md.png 768w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-lg.png 1200w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-xl.png 1600w">

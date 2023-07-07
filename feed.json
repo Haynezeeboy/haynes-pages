@@ -16,20 +16,22 @@
             "title": "Everick Website",
             "summary": "Design Concept - To create a webpage for Everick Geospatial that displays its services with imagery more than text. Design&hellip;",
             "content_html": "<p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text. </p>\n<p><span style=\"color: #02192b;\"><strong>Design</strong></span> Matthew Haynes</p>\n<p><strong>Client</strong>  <a href=\"https://www.geospatial.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">Everick</a></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matthewhayn.es/media/posts/22/Heritage-Website.png\" alt=\"\" width=\"1240\" height=\"1240\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-xs.png 384w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-sm.png 600w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-md.png 768w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-lg.png 1200w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-xl.png 1600w\"></figure>",
+            "image": "https://matthewhayn.es/media/posts/22/Everick-Website-Feature.png",
             "author": {
                 "name": "Matthew Haynes"
             },
             "tags": [
             ],
             "date_published": "2023-07-07T15:59:06+10:00",
-            "date_modified": "2023-07-07T16:00:50+10:00"
+            "date_modified": "2023-07-07T17:19:22+10:00"
         },
         {
             "id": "https://matthewhayn.es/everick-geospatial-website.html",
             "url": "https://matthewhayn.es/everick-geospatial-website.html",
             "title": "Everick Geospatial Website",
             "summary": "Design Concept - To create a webpage for Everick Geospatial that displays its services with imagery more than text. Design&hellip;",
-            "content_html": "<p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text. </p>\n<p><span style=\"color: #02192b;\"><strong>Design</strong></span> Matthew Haynes</p>\n<p><strong>Client</strong>  <a href=\"https://www.geospatial.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">Everick Geospatial</a></p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/21/Geospatial-website.png\" alt=\"\" width=\"1240\" height=\"1240\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-xs.png 384w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-sm.png 600w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-md.png 768w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-lg.png 1200w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-xl.png 1600w\">\n<figcaption >The Geospatial website in desktop &amp; mobile</figcaption>\n</figure>\n<p>See the Geospatial website <a href=\"https://www.geospatial.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>\n<p> </p>",
+            "content_html": "<p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text.</p>\n<p><span style=\"color: #02192b;\"><strong>Design</strong></span> Matthew Haynes</p>\n<p><strong>Client</strong>  <a href=\"https://www.geospatial.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">Everick Geospatial</a></p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/21/Geospatial-website.png\" alt=\"\" width=\"1240\" height=\"1240\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-xs.png 384w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-sm.png 600w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-md.png 768w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-lg.png 1200w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-xl.png 1600w\">\n<figcaption >The Geospatial website in desktop &amp; mobile</figcaption>\n</figure>\n<p>See the Geospatial website <a href=\"https://www.geospatial.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>\n<p> </p>",
+            "image": "https://matthewhayn.es/media/posts/21/Geospatial-web-desktop.png",
             "author": {
                 "name": "Matthew Haynes"
             },
@@ -37,7 +39,7 @@
                    "Web"
             ],
             "date_published": "2023-07-07T11:38:18+10:00",
-            "date_modified": "2023-07-07T15:39:27+10:00"
+            "date_modified": "2023-07-07T17:16:50+10:00"
         },
         {
             "id": "https://matthewhayn.es/everick-geospatial-logo.html",

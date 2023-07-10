@@ -3,7 +3,7 @@
     <title>matthewhayn.es</title>
     <link href="https://matthewhayn.es/feed.xml" rel="self" />
     <link href="https://matthewhayn.es" />
-    <updated>2023-07-08T14:39:03+10:00</updated>
+    <updated>2023-07-10T22:46:54+10:00</updated>
     <author>
         <name>Matthew Haynes</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://matthewhayn.es/media/posts/22/Everick-Website-Feature.png" medium="image" />
             <category term="Web"/>
 
-        <updated>2023-07-07T17:28:15+10:00</updated>
+        <updated>2023-07-10T22:46:54+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://matthewhayn.es/media/posts/22/Everick-Website-Feature.png" alt="" />
@@ -32,7 +32,8 @@
                 <p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text. </p>
 <p><span style="color: #02192b;"><strong>Design</strong></span> Matthew Haynes</p>
 <p><strong>Client</strong>  <a href="https://www.geospatial.everick.com.au" target="_blank" rel="noopener noreferrer">Everick</a></p>
-<figure class="post__image"><img loading="lazy"  src="https://matthewhayn.es/media/posts/22/Heritage-Website.png" alt="" width="1240" height="1240" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-xs.png 384w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-sm.png 600w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-md.png 768w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-lg.png 1200w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://matthewhayn.es/media/posts/22/Heritage-Website-v2.png" alt="" width="1240" height="1240" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-xs.png 384w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-sm.png 600w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-md.png 768w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-lg.png 1200w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-xl.png 1600w"><figcaption>Desktop and mobile versions</figcaption></figure>
+<p>Website <a href="https://www.everick.com.au" target="_blank" rel="noopener noreferrer">here</a>.</p>
             ]]>
         </content>
     </entry>
@@ -46,7 +47,7 @@
         <media:content url="https://matthewhayn.es/media/posts/21/Geospatial-web-desktop.png" medium="image" />
             <category term="Web"/>
 
-        <updated>2023-07-07T17:16:50+10:00</updated>
+        <updated>2023-07-09T18:30:07+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://matthewhayn.es/media/posts/21/Geospatial-web-desktop.png" alt="" />
@@ -231,7 +232,7 @@
             <category term="Print"/>
             <category term="Indigenous"/>
 
-        <updated>2023-07-06T15:20:21+10:00</updated>
+        <updated>2023-07-10T21:35:13+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://matthewhayn.es/media/posts/17/artefact-Feature-Image-Template.png" alt="" />
@@ -250,7 +251,9 @@
 <figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/17/gallery/Kestrel-Booklet-for-Print-Outside.jpg" data-size="3508x2480"><img loading="lazy" src="https://matthewhayn.es/media/posts/17/gallery/Kestrel-Booklet-for-Print-Outside-thumbnail.jpg" alt="" width="768" height="543"></a></figure>
 <figure class="gallery__item"><a href="https://matthewhayn.es/media/posts/17/gallery/Kestrel-Booklet-for-Print-Inside.jpg" data-size="3508x2480"><img loading="lazy" src="https://matthewhayn.es/media/posts/17/gallery/Kestrel-Booklet-for-Print-Inside-thumbnail.jpg" alt="" width="768" height="543"></a></figure>
 </div></div>
-<p> </p>
+<iframe loading="lazy" width="850" height="450" src="https://&lt;&gt;&lt;/iframe&gt;https://api.everick.com.au/AR/WK/AR_Request_Processor?bucket=wulli-wulli&amp;file=may2023/WulliWulliPictogramPhotogramwithLidar&amp;title=title
+&gt;.hf.space" frameborder="0" p=""> 
+<p> </p></iframe>
             ]]>
         </content>
     </entry>

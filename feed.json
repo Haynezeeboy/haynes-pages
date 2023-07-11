@@ -15,7 +15,7 @@
             "url": "https://matthewhayn.es/everick-website.html",
             "title": "Everick Website",
             "summary": "Design Concept - To create a webpage for Everick Geospatial that displays its services with imagery more than text. Design&hellip;",
-            "content_html": "<p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text. </p>\n<p><span style=\"color: #02192b;\"><strong>Design</strong></span> Matthew Haynes</p>\n<p><strong>Client</strong>  <a href=\"https://www.geospatial.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">Everick</a></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matthewhayn.es/media/posts/22/Heritage-Website-v2.png\" alt=\"\" width=\"1240\" height=\"1240\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-xs.png 384w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-sm.png 600w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-md.png 768w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-lg.png 1200w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-xl.png 1600w\"><figcaption>Desktop and mobile versions</figcaption></figure>\n<p>Website <a href=\"https://www.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>",
+            "content_html": "<p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text. </p>\n<p><span style=\"color: #02192b;\"><strong>Design</strong></span> Matthew Haynes</p>\n<p><strong>Client</strong>  <a href=\"https://www.geospatial.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">Everick</a></p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/22/Heritage-Website-v2-2.png\" alt=\"\" width=\"1240\" height=\"1240\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-2-xs.png 384w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-2-sm.png 600w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-2-md.png 768w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-2-lg.png 1200w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-2-xl.png 1600w\">\n<figcaption >Desktop &amp; mobile versions</figcaption>\n</figure>\n<p> </p>\n<p>Website <a href=\"https://www.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>",
             "image": "https://matthewhayn.es/media/posts/22/Everick-Website-Feature.png",
             "author": {
                 "name": "Matthew Haynes"
@@ -24,14 +24,14 @@
                    "Web"
             ],
             "date_published": "2023-07-07T15:59:06+10:00",
-            "date_modified": "2023-07-10T22:46:54+10:00"
+            "date_modified": "2023-07-11T09:23:27+10:00"
         },
         {
             "id": "https://matthewhayn.es/everick-geospatial-website.html",
             "url": "https://matthewhayn.es/everick-geospatial-website.html",
             "title": "Everick Geospatial Website",
             "summary": "Design Concept - To create a webpage for Everick Geospatial that displays its services with imagery more than text. Design&hellip;",
-            "content_html": "<p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text.</p>\n<p><span style=\"color: #02192b;\"><strong>Design</strong></span> Matthew Haynes</p>\n<p><strong>Client</strong>  <a href=\"https://www.geospatial.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">Everick Geospatial</a></p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/21/Geospatial-website.png\" alt=\"\" width=\"1240\" height=\"1240\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-xs.png 384w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-sm.png 600w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-md.png 768w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-lg.png 1200w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-xl.png 1600w\">\n<figcaption >The Geospatial website in desktop &amp; mobile</figcaption>\n</figure>\n<p>See the Geospatial website <a href=\"https://www.geospatial.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>\n<p> </p>",
+            "content_html": "<p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text.</p>\n<p><span style=\"color: #02192b;\"><strong>Design</strong></span> Matthew Haynes</p>\n<p><strong>Client</strong>  <a href=\"https://www.geospatial.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">Everick Geospatial</a></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matthewhayn.es/media/posts/21/Geospatial-website-2.png\" alt=\"\" width=\"1240\" height=\"1240\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-2-xs.png 384w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-2-sm.png 600w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-2-md.png 768w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-2-lg.png 1200w ,https://matthewhayn.es/media/posts/21/responsive/Geospatial-website-2-xl.png 1600w\"><figcaption>Desktop &amp; Mobile versions</figcaption></figure>\n<p> </p>\n<p>See the Geospatial website <a href=\"https://www.geospatial.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>\n<p> </p>",
             "image": "https://matthewhayn.es/media/posts/21/Geospatial-web-desktop.png",
             "author": {
                 "name": "Matthew Haynes"
@@ -40,7 +40,7 @@
                    "Web"
             ],
             "date_published": "2023-07-07T11:38:18+10:00",
-            "date_modified": "2023-07-09T18:30:07+10:00"
+            "date_modified": "2023-07-11T09:28:29+10:00"
         },
         {
             "id": "https://matthewhayn.es/everick-geospatial-logo.html",
@@ -81,8 +81,8 @@
             "id": "https://matthewhayn.es/western-kangoulu-welcome-to-country-signage.html",
             "url": "https://matthewhayn.es/western-kangoulu-welcome-to-country-signage.html",
             "title": "Western Kangoulu - Welcome to Country Signage",
-            "summary": "Design Concept - To represent Western Kangaulu's cultural image to miners at the entrance of several Kestrel Mines as a&hellip;",
-            "content_html": "<p><strong>Design Concept - </strong>To represent Western Kangaulu's cultural image to miners at the entrance of several Kestrel Mines as a welcome to incoming staff. This would utilise printed stickers to be placed on the Kestrel mine entryway. </p>\n<p><strong>Design</strong> Matthew Haynes</p>\n<p><strong>Client</strong>  <a href=\"https://westernkangoulu.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">Western Kangoulu</a> / <a href=\"https://kestrelcoal.com\" target=\"_blank\" rel=\"noopener noreferrer\">Kestel Coal</a></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matthewhayn.es/media/posts/10/EBI1008-Kestrel-pXRF-Survey-221104-1020205.png\" alt=\"\" width=\"5650\" height=\"3767\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/10/responsive/EBI1008-Kestrel-pXRF-Survey-221104-1020205-xs.png 384w ,https://matthewhayn.es/media/posts/10/responsive/EBI1008-Kestrel-pXRF-Survey-221104-1020205-sm.png 600w ,https://matthewhayn.es/media/posts/10/responsive/EBI1008-Kestrel-pXRF-Survey-221104-1020205-md.png 768w ,https://matthewhayn.es/media/posts/10/responsive/EBI1008-Kestrel-pXRF-Survey-221104-1020205-lg.png 1200w ,https://matthewhayn.es/media/posts/10/responsive/EBI1008-Kestrel-pXRF-Survey-221104-1020205-xl.png 1600w\"></figure>",
+            "summary": "Design Concept - To display Western Kangaulu's cultural image to miners at the entrance of several Kestrel Mines as a&hellip;",
+            "content_html": "<p><strong>Design Concept - </strong>To display Western Kangaulu's cultural image to miners at the entrance of several Kestrel Mines as a welcome to country for incoming staff. This would utilise printed stickers to be placed on the Kestrel mine entryway. </p>\n<p><strong>Design</strong> Matthew Haynes</p>\n<p><strong>Client</strong>  <a href=\"https://westernkangoulu.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">Western Kangoulu</a> / <a href=\"https://kestrelcoal.com\" target=\"_blank\" rel=\"noopener noreferrer\">Kestel Coal</a></p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/10/EBI1008-Kestrel-pXRF-Survey-221104-1020205.png\" alt=\"\" width=\"5650\" height=\"3767\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/10/responsive/EBI1008-Kestrel-pXRF-Survey-221104-1020205-xs.png 384w ,https://matthewhayn.es/media/posts/10/responsive/EBI1008-Kestrel-pXRF-Survey-221104-1020205-sm.png 600w ,https://matthewhayn.es/media/posts/10/responsive/EBI1008-Kestrel-pXRF-Survey-221104-1020205-md.png 768w ,https://matthewhayn.es/media/posts/10/responsive/EBI1008-Kestrel-pXRF-Survey-221104-1020205-lg.png 1200w ,https://matthewhayn.es/media/posts/10/responsive/EBI1008-Kestrel-pXRF-Survey-221104-1020205-xl.png 1600w\">\n<figcaption >One of the entryways at a Kestrel Mine in Emerald</figcaption>\n</figure>",
             "image": "https://matthewhayn.es/media/posts/10/Western-K-logo.png",
             "author": {
                 "name": "Matthew Haynes"
@@ -92,7 +92,7 @@
                    "Indigenous"
             ],
             "date_published": "2023-07-06T15:10:00+10:00",
-            "date_modified": "2023-07-07T17:40:58+10:00"
+            "date_modified": "2023-07-11T09:25:20+10:00"
         },
         {
             "id": "https://matthewhayn.es/everick-capacity-statement.html",
@@ -100,7 +100,7 @@
             "title": "Everick Heritage Capacity Statement",
             "summary": "Since 2002 Everick Heritage has committed to providing expert heritage management advice through valuable community engagement. Everick is a family&hellip;",
             "content_html": "<p class=\"p1\">Since 2002 Everick Heritage has committed to providing expert heritage management advice through valuable community engagement. Everick is a family owned and run business, started by Dr Richard Robins and now led by his son Tim Robins (Managing Director). The team continue to grow and consists of over 70 staff.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matthewhayn.es/media/posts/6/Screenshot-2023-07-03-at-2.56.39-pm.png\" alt=\"\" width=\"1402\" height=\"2016\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/6/responsive/Screenshot-2023-07-03-at-2.56.39-pm-xs.png 384w ,https://matthewhayn.es/media/posts/6/responsive/Screenshot-2023-07-03-at-2.56.39-pm-sm.png 600w ,https://matthewhayn.es/media/posts/6/responsive/Screenshot-2023-07-03-at-2.56.39-pm-md.png 768w ,https://matthewhayn.es/media/posts/6/responsive/Screenshot-2023-07-03-at-2.56.39-pm-lg.png 1200w ,https://matthewhayn.es/media/posts/6/responsive/Screenshot-2023-07-03-at-2.56.39-pm-xl.png 1600w\"></figure>\n<p> </p>\n<p>Open the whole document <a href=\"https://drive.google.com/file/d/12h6thv2GH5q9DJkup9oXnbMGsdt0W_b2/view?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>. </p>",
-            "image": "https://matthewhayn.es/media/posts/6/Heritage-Feature-Image-Template.png",
+            "image": "https://matthewhayn.es/media/posts/6/Heritage-Feature-Image-Template.jpg",
             "author": {
                 "name": "Matthew Haynes"
             },
@@ -108,7 +108,7 @@
                    "Print"
             ],
             "date_published": "2023-07-06T15:04:00+10:00",
-            "date_modified": "2023-07-08T14:32:20+10:00"
+            "date_modified": "2023-07-11T20:07:35+10:00"
         },
         {
             "id": "https://matthewhayn.es/everick-foundation-annual-report.html",
@@ -116,7 +116,7 @@
             "title": "Everick Foundation Annual Report",
             "summary": "Everick Foundation's mission is to create pathways for Indigenous communities to engage with culture and heritage on Country. We facilitate&hellip;",
             "content_html": "<p class=\"p1\">Everick Foundation's mission is to create pathways for Indigenous communities to engage with culture and heritage on Country. We facilitate community-led initiatives in capacity building, education, research and creative solutions. We foster collaborations to support community aspirations, shared understandings, and visual storytelling about heritage.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matthewhayn.es/media/posts/9/Everick-Foundation-Page-4.jpg\" alt=\"\" width=\"2480\" height=\"3508\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/9/responsive/Everick-Foundation-Page-4-xs.jpg 384w ,https://matthewhayn.es/media/posts/9/responsive/Everick-Foundation-Page-4-sm.jpg 600w ,https://matthewhayn.es/media/posts/9/responsive/Everick-Foundation-Page-4-md.jpg 768w ,https://matthewhayn.es/media/posts/9/responsive/Everick-Foundation-Page-4-lg.jpg 1200w ,https://matthewhayn.es/media/posts/9/responsive/Everick-Foundation-Page-4-xl.jpg 1600w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matthewhayn.es/media/posts/9/Everick-Foundation-Page-8.jpg\" alt=\"\" width=\"2480\" height=\"3508\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/9/responsive/Everick-Foundation-Page-8-xs.jpg 384w ,https://matthewhayn.es/media/posts/9/responsive/Everick-Foundation-Page-8-sm.jpg 600w ,https://matthewhayn.es/media/posts/9/responsive/Everick-Foundation-Page-8-md.jpg 768w ,https://matthewhayn.es/media/posts/9/responsive/Everick-Foundation-Page-8-lg.jpg 1200w ,https://matthewhayn.es/media/posts/9/responsive/Everick-Foundation-Page-8-xl.jpg 1600w\"></figure>\n<p>Open the whole document <a href=\"https://drive.google.com/open?id=1v-brQ4PI0w-ODQzvmTaCt0laTh5XMA6X&amp;usp=drive_fs\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>",
-            "image": "https://matthewhayn.es/media/posts/9/Foundation-Feature-Image-Template.png",
+            "image": "https://matthewhayn.es/media/posts/9/Foundation-Feature-Image-Template.jpg",
             "author": {
                 "name": "Matthew Haynes"
             },
@@ -124,7 +124,7 @@
                    "Print"
             ],
             "date_published": "2023-07-06T13:37:00+10:00",
-            "date_modified": "2023-07-08T14:04:54+10:00"
+            "date_modified": "2023-07-11T19:40:35+10:00"
         },
         {
             "id": "https://matthewhayn.es/western-kangoulu-cultural-artefacts.html",
@@ -132,7 +132,7 @@
             "title": "Western Kangoulu Cultural Artefacts",
             "summary": "Design Concept - To create an educational booklet to display and interact with Western Kangaulu cultural artefacts. This will utilise&hellip;",
             "content_html": "<p><strong>Design Concept - </strong>To create an educational booklet<strong> t</strong>o display and interact with Western Kangaulu cultural artefacts. This will utilise artefact photography and photogrammetry.  </p>\n<p><strong>Design</strong> <strong>Photography &amp; Photogrammetry</strong> Matthew Haynes</p>\n<p><strong>Client</strong>  <a href=\"https://westernkangoulu.com.au/\" target=\"_blank\" rel=\"noopener noreferrer\">Western Kangoulu</a> / <a href=\"https://kestrelcoal.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Kestel Coal</a></p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matthewhayn.es/media/posts/17/Artefacts-flow-v3-2.png\" alt=\"\" width=\"2600\" height=\"5000\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/17/responsive/Artefacts-flow-v3-2-xs.png 384w ,https://matthewhayn.es/media/posts/17/responsive/Artefacts-flow-v3-2-sm.png 600w ,https://matthewhayn.es/media/posts/17/responsive/Artefacts-flow-v3-2-md.png 768w ,https://matthewhayn.es/media/posts/17/responsive/Artefacts-flow-v3-2-lg.png 1200w ,https://matthewhayn.es/media/posts/17/responsive/Artefacts-flow-v3-2-xl.png 1600w\"></figure>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://matthewhayn.es/media/posts/17/gallery/Kestrel-Booklet-for-Print-Outside.jpg\" data-size=\"3508x2480\"><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/17/gallery/Kestrel-Booklet-for-Print-Outside-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"543\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://matthewhayn.es/media/posts/17/gallery/Kestrel-Booklet-for-Print-Inside.jpg\" data-size=\"3508x2480\"><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/17/gallery/Kestrel-Booklet-for-Print-Inside-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"543\"></a></figure>\n</div></div>\n<iframe loading=\"lazy\" width=\"850\" height=\"450\" src=\"https://&lt;&gt;&lt;/iframe&gt;https://api.everick.com.au/AR/WK/AR_Request_Processor?bucket=wulli-wulli&amp;file=may2023/WulliWulliPictogramPhotogramwithLidar&amp;title=title\n&gt;.hf.space\" frameborder=\"0\" p=\"\"> \n<p> </p></iframe>",
-            "image": "https://matthewhayn.es/media/posts/17/artefact-Feature-Image-Template.png",
+            "image": "https://matthewhayn.es/media/posts/17/Artefact-Feature.png",
             "author": {
                 "name": "Matthew Haynes"
             },
@@ -141,7 +141,7 @@
                    "Indigenous"
             ],
             "date_published": "2023-07-05T16:33:10+10:00",
-            "date_modified": "2023-07-10T21:35:13+10:00"
+            "date_modified": "2023-07-11T20:14:04+10:00"
         },
         {
             "id": "https://matthewhayn.es/everick-foundation-conference-flyers.html",
@@ -165,7 +165,7 @@
             "title": "Barada Kabalbara Yetimarala People Strategic Plan",
             "summary": "Design Concept - To represent Barada Kabalbara Yetimarala's (BKY) strategic goals booklet by developing a brand image. BKY are people&hellip;",
             "content_html": "<p><strong>Design Concept - </strong>To represent Barada Kabalbara Yetimarala's (BKY) strategic goals booklet by developing a brand image. BKY are people of the inner Australian landscape.</p>\n<p><strong>Design</strong> Matthew Haynes</p>\n<p><strong>Client</strong> <a href=\"http://www.nntt.gov.au/searchRegApps/NativeTitleClaims/Pages/details.aspx?NTDA_Fileno=QC2013/004\" target=\"_blank\" rel=\"noopener noreferrer\">Barada Kabalbara Yetimarala</a></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matthewhayn.es/media/posts/11/BKY-Strategic-Goals-Document-Booklet.jpg\" alt=\"\" width=\"5100\" height=\"3300\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/11/responsive/BKY-Strategic-Goals-Document-Booklet-xs.jpg 384w ,https://matthewhayn.es/media/posts/11/responsive/BKY-Strategic-Goals-Document-Booklet-sm.jpg 600w ,https://matthewhayn.es/media/posts/11/responsive/BKY-Strategic-Goals-Document-Booklet-md.jpg 768w ,https://matthewhayn.es/media/posts/11/responsive/BKY-Strategic-Goals-Document-Booklet-lg.jpg 1200w ,https://matthewhayn.es/media/posts/11/responsive/BKY-Strategic-Goals-Document-Booklet-xl.jpg 1600w\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://matthewhayn.es/media/posts/11/BKY-Strategic-Goals-Document-Booklet-20-21.jpg\" alt=\"\" width=\"5100\" height=\"3300\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/11/responsive/BKY-Strategic-Goals-Document-Booklet-20-21-xs.jpg 384w ,https://matthewhayn.es/media/posts/11/responsive/BKY-Strategic-Goals-Document-Booklet-20-21-sm.jpg 600w ,https://matthewhayn.es/media/posts/11/responsive/BKY-Strategic-Goals-Document-Booklet-20-21-md.jpg 768w ,https://matthewhayn.es/media/posts/11/responsive/BKY-Strategic-Goals-Document-Booklet-20-21-lg.jpg 1200w ,https://matthewhayn.es/media/posts/11/responsive/BKY-Strategic-Goals-Document-Booklet-20-21-xl.jpg 1600w\"></figure>\n<p> </p>",
-            "image": "https://matthewhayn.es/media/posts/11/BKY-Feature-Image-Template.png",
+            "image": "https://matthewhayn.es/media/posts/11/BKY-Feature-Image-Template-2.png",
             "author": {
                 "name": "Matthew Haynes"
             },
@@ -175,7 +175,7 @@
                    "Iconography"
             ],
             "date_published": "2023-07-05T15:45:00+10:00",
-            "date_modified": "2023-07-08T14:39:03+10:00"
+            "date_modified": "2023-07-11T20:17:13+10:00"
         }
     ]
 }

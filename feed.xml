@@ -3,7 +3,7 @@
     <title>matthewhayn.es</title>
     <link href="https://matthewhayn.es/feed.xml" rel="self" />
     <link href="https://matthewhayn.es" />
-    <updated>2023-07-14T16:56:18+10:00</updated>
+    <updated>2023-07-14T18:00:52+10:00</updated>
     <author>
         <name>Matthew Haynes</name>
     </author>
@@ -17,8 +17,10 @@
         <link href="https://matthewhayn.es/acknowledgement-of-country-guide.html"/>
         <id>https://matthewhayn.es/acknowledgement-of-country-guide.html</id>
         <media:content url="https://matthewhayn.es/media/posts/24/A4-Acknowledgement-of-Country-CMYK-Page-1-Feature.png" medium="image" />
+            <category term="Print"/>
+            <category term="Indigenous"/>
 
-        <updated>2023-07-14T16:56:18+10:00</updated>
+        <updated>2023-07-14T17:06:52+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://matthewhayn.es/media/posts/24/A4-Acknowledgement-of-Country-CMYK-Page-1-Feature.png" alt="" />
@@ -105,11 +107,9 @@
         <link href="https://matthewhayn.es/everick-geospatial-logo.html"/>
         <id>https://matthewhayn.es/everick-geospatial-logo.html</id>
         <media:content url="https://matthewhayn.es/media/posts/20/Geospatial-Logo.png" medium="image" />
-            <category term="Web"/>
-            <category term="Print"/>
             <category term="Logo"/>
 
-        <updated>2023-07-07T17:23:42+10:00</updated>
+        <updated>2023-07-14T17:07:23+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://matthewhayn.es/media/posts/20/Geospatial-Logo.png" alt="" />
@@ -140,10 +140,9 @@
         <link href="https://matthewhayn.es/lithic-legal-logo.html"/>
         <id>https://matthewhayn.es/lithic-legal-logo.html</id>
         <media:content url="https://matthewhayn.es/media/posts/19/Lithic-Legal-Feature-2.png" medium="image" />
-            <category term="Print"/>
             <category term="Logo"/>
 
-        <updated>2023-07-07T17:23:14+10:00</updated>
+        <updated>2023-07-14T17:07:36+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://matthewhayn.es/media/posts/19/Lithic-Legal-Feature-2.png" alt="" />
@@ -235,7 +234,7 @@
         <media:content url="https://matthewhayn.es/media/posts/9/Foundation-Feature-Image-Template.jpg" medium="image" />
             <category term="Print"/>
 
-        <updated>2023-07-11T19:40:35+10:00</updated>
+        <updated>2023-07-14T18:00:52+10:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://matthewhayn.es/media/posts/9/Foundation-Feature-Image-Template.jpg" alt="" />

@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://matthewhayn.es/on-country-cultural-research-with-wulli-wulli-people.html",
+            "url": "https://matthewhayn.es/on-country-cultural-research-with-wulli-wulli-people.html",
+            "title": "On-Country Cultural Research with Wulli Wulli People",
+            "summary": "A select team consisting of a principal researcher, videographer, and myself, representing Everick Foundation were afforded the opportunity to be&hellip;",
+            "content_html": "<p>A select team consisting of a principal researcher, videographer, and myself, representing Everick Foundation were afforded the opportunity to be invited onto Wulli Wulli country to survey the landscape and take rock art dating samples. We spent several days with the Wulli Wulli on country after a Welcome to Country ceremony which brought a young Wulli Wulli artist, onto his people’s land for the first time. During this trip, we learnt about their culture, heard stories, documented sacred sites, and got to know each other.</p>\n<p>My role on this trip was to document a petroglyph site using LiDAR technology and photogrammetry techniques, a process spanning a few days. Following our departure, I dedicated time to digitally transform the accumulated photography and LiDAR data into an accurate 3D recreation. This representation serves as preservation and understanding for the Wulli Wulli people as this can now be passed onto researchers to help evaluate its significance. A video of this Wulli Wulli research project can be below. </p>\n<p>3D Render of the Wulli Wulli Petrolyph <a href=\"https://api.everick.com.au/AR/WK/AR_Request_Processor?bucket=wulli-wulli&amp;file=may2023/WulliWulliPictogramPhotogramwithLidar&amp;title=title\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>. (Use on a smart phone to place into 3 dimensional space</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HsR-6g1qdhI?si=wtaHu-fsASmdDN02\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://matthewhayn.es/media/posts/35/gallery/Screenshot-2023-10-13-at-2.08.58-pm.png\" data-size=\"1754x1239\"><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/35/gallery/Screenshot-2023-10-13-at-2.08.58-pm-thumbnail.png\" alt=\"\" width=\"768\" height=\"543\"></a>\n<figcaption>3D Render (north side)</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://matthewhayn.es/media/posts/35/gallery/Screenshot-2023-10-13-at-2.29.04-pm.png\" data-size=\"1765x1252\"><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/35/gallery/Screenshot-2023-10-13-at-2.29.04-pm-thumbnail.png\" alt=\"\" width=\"768\" height=\"545\"></a>\n<figcaption>3D Render (top)</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://matthewhayn.es/media/posts/35/gallery/717f8e67-cf65-46e7-96ad-583dd5ddb78e-1.JPG\" data-size=\"1600x777\"><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/35/gallery/717f8e67-cf65-46e7-96ad-583dd5ddb78e-1-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"373\"></a>\n<figcaption>Capturing on site (photogrammetry)</figcaption>\n</figure>\n</div></div>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://matthewhayn.es/media/posts/35/Wulli-Wulli.png",
+            "author": {
+                "name": "Matthew Haynes"
+            },
+            "tags": [
+                   "Photography",
+                   "Indigenous"
+            ],
+            "date_published": "2023-10-13T14:53:11+10:00",
+            "date_modified": "2023-10-13T14:53:11+10:00"
+        },
+        {
             "id": "https://matthewhayn.es/cpsu-shirt-design.html",
             "url": "https://matthewhayn.es/cpsu-shirt-design.html",
             "title": "CPSU Shirt Design",
@@ -158,22 +175,6 @@
             ],
             "date_published": "2023-08-08T16:06:00+10:00",
             "date_modified": "2023-10-06T10:44:43+10:00"
-        },
-        {
-            "id": "https://matthewhayn.es/everick-website.html",
-            "url": "https://matthewhayn.es/everick-website.html",
-            "title": "Everick Website",
-            "summary": "Design Concept - To create a webpage for Everick Geospatial that displays its services with imagery more than text. Design&hellip;",
-            "content_html": "<p><strong>Design Concept - </strong>To create a webpage for Everick Geospatial that displays its services with imagery more than text. </p>\n<p><span style=\"color: #02192b;\"><strong>Design</strong></span> Matthew Haynes</p>\n<p><strong>Client</strong>  <a href=\"https://www.geospatial.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">Everick</a></p>\n<figure class=\"post__image\" ><img loading=\"lazy\" src=\"https://matthewhayn.es/media/posts/22/Heritage-Website-v2-2.png\" alt=\"\" width=\"1240\" height=\"1240\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-2-xs.png 384w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-2-sm.png 600w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-2-md.png 768w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-2-lg.png 1200w ,https://matthewhayn.es/media/posts/22/responsive/Heritage-Website-v2-2-xl.png 1600w\">\n<figcaption >Desktop &amp; mobile versions</figcaption>\n</figure>\n<p> </p>\n<p>Website <a href=\"https://www.everick.com.au\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</p>",
-            "image": "https://matthewhayn.es/media/posts/22/Everick-Website-Feature.png",
-            "author": {
-                "name": "Matthew Haynes"
-            },
-            "tags": [
-                   "Web"
-            ],
-            "date_published": "2023-08-08T15:59:00+10:00",
-            "date_modified": "2023-08-08T15:59:00+10:00"
         }
     ]
 }
